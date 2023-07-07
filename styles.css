@@ -75,12 +75,12 @@ fieldset{
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: relative;
+    position: inherit;
     overflow: hidden;
     background-image: linear-gradient(#faf9f9, #f5f3f3);
     transition: all .5s;
     border: none;
-    width: 400px;
+    width: 300px;
     height: 500px;
 }
 .faixa{
