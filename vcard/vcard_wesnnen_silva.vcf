@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:Silva;Wesnnen;;;
+FN:Wesnnen Silva
+ORG:GOB-RJ;
+TITLE:Estagiário
+EMAIL;TYPE=PREF,INTERNET:suporte@gob-rj.org.br
+TEL;TYPE=CELL,voice:021981290373
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;; ;;;;
+URL:https://github.com/wesnnen
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
