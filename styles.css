@@ -165,3 +165,10 @@ img{
    
 
 }
+
+.imgqr{
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    opacity: 0.9;
+}
