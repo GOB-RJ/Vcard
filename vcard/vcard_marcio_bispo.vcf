@@ -1,16 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//QR-Code-Generator.com//EN
-N:Silva;Wesnnen;;;
-FN:Wesnnen Silva
+N:Bispo;Marcio;;;
+FN:Marcio Bispo
 ORG:GOB-RJ;
-TITLE:Estagiário
-EMAIL;TYPE=PREF,INTERNET:suporte@gob-rj.org.br
-TEL;TYPE=CELL,voice:021981290373
+TITLE:Secretario - SECI
+EMAIL;TYPE=PREF,INTERNET:seci@gob-rj.org.br
+TEL;TYPE=CELL,voice:+5521981210005
 TEL;TYPE=WORK,voice:
 TEL;TYPE=WORK,fax:
 ADR;TYPE=WORK;type=pref:;; ;;;;
-URL:https://github.com/wesnnen
+URL:
 
 NOTE:
 
